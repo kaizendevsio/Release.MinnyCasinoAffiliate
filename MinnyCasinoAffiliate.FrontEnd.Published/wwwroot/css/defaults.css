@@ -83,3 +83,12 @@ Website: http://www.seantheme.com/color-admin-v4.3/admin/
 .top-menu .nav > li.active > a:hover i {
 	color: #00acac;
 }
+
+#chart-container {
+    font-family: Arial;
+    height: 82vh;
+    border: 2px dashed #aaa;
+    border-radius: 5px;
+    overflow: auto;
+    text-align: center;
+}
